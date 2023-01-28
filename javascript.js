@@ -1,7 +1,7 @@
 var expReg = "[0-9]"
 var expReg2 = "^X|^x";
 var expReg3 = "^_";
-
+//Generamos un comentario para poder guardar los cambios
 
 var nombre = document.getElementById("usuario");
 var contraseña = document.getElementById ("password");
